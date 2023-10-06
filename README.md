@@ -8,4 +8,4 @@ This repository contains the R code used for [*Intersectionality in Conversation
 
 [DICES Dataset: Diversity in Conversational AI Evaluation for Safety (2023)](https://arxiv.org/abs/2306.11247). Lora Aroyo<sup>$\ast$</sup>, Alex S. Taylor<sup>$\ast$</sup>, Mark Díaz, Christopher M. Homan, Alicia Parrish, Greg Serapio-García, Vinodkumar Prabhakaran, and Ding Wang.
 
-<sup>$\ast$</sup>Contributed equally.
+<sup>$\ast$</sup>Contributed equally. Subsequent coauthors listed alphabetically.
