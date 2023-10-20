@@ -2,7 +2,7 @@
 This repository contains the R code used for [*Intersectionality in Conversational AI Safety: How Bayesian Multilevel Models Help Understand Diverse Perceptions of Safety*](https://arxiv.org/abs/2306.11530). The underlying data are available as part of Google Research's [DICES Dataset](https://github.com/google-research-datasets/dices-dataset).
 
 # License
-Copyright 2023 Greg Serapio-Garcia
+Copyright 2023 Gregory Serapio-García
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
