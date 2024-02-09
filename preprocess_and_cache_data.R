@@ -111,7 +111,7 @@ df_v1v2v3 <- df_raw_all %>%
         "Prefer not to answer") ~ "Other"
       )
     ) %>%
-  # make white people the reference group
+  # make white raters the reference group
   mutate(race_detailed = relevel(factor(race_detailed), "White"))
 
 
